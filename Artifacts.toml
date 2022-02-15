@@ -1,0 +1,88 @@
+[[hyper]]
+arch = "aarch64"
+git-tree-sha1 = "119a53a5108ed8d4b5f8413c8f9f23771bd61fbb"
+os = "macos"
+
+    [[hyper.download]]
+    sha256 = "dc782e29103ac93386d3be986791550ba4268dcac4e0330cc18af61a82c211ac"
+    url = "https://github.com/JuliaBinaryWrappers/hyper_jll.jl/releases/download/hyper-v0.14.17+0/hyper.v0.14.17.aarch64-apple-darwin.tar.gz"
+[[hyper]]
+arch = "aarch64"
+git-tree-sha1 = "2e2c7a287ccfa526939c45cde56b59e7ea4768c8"
+libc = "glibc"
+os = "linux"
+
+    [[hyper.download]]
+    sha256 = "d271c67b6cc1db2678ffdd7db7142e42a171d142edc58dfac1c80e75b6e627c6"
+    url = "https://github.com/JuliaBinaryWrappers/hyper_jll.jl/releases/download/hyper-v0.14.17+0/hyper.v0.14.17.aarch64-linux-gnu.tar.gz"
+[[hyper]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "bf16216cf5c049b171c9c692f3186679d66c67b3"
+libc = "glibc"
+os = "linux"
+
+    [[hyper.download]]
+    sha256 = "15e907d93c370f9473e9e837211c639dd1f18e6def15a93282bc596211814dd3"
+    url = "https://github.com/JuliaBinaryWrappers/hyper_jll.jl/releases/download/hyper-v0.14.17+0/hyper.v0.14.17.armv6l-linux-gnueabihf.tar.gz"
+[[hyper]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f22cd710caf4ed62b5683b1fdd82eb310885b6f0"
+libc = "glibc"
+os = "linux"
+
+    [[hyper.download]]
+    sha256 = "be3c84f79caa7e02c5d1afcdeebe3d04477278008d97c44988d4bad3e8cc5409"
+    url = "https://github.com/JuliaBinaryWrappers/hyper_jll.jl/releases/download/hyper-v0.14.17+0/hyper.v0.14.17.armv7l-linux-gnueabihf.tar.gz"
+[[hyper]]
+arch = "i686"
+git-tree-sha1 = "097b692876c1fa46d8daf0f524f49b2e5a5db32f"
+libc = "glibc"
+os = "linux"
+
+    [[hyper.download]]
+    sha256 = "96661966b862f83cfe4818f3b8bceab0a3a0790535a96b6394b450169f7d98e5"
+    url = "https://github.com/JuliaBinaryWrappers/hyper_jll.jl/releases/download/hyper-v0.14.17+0/hyper.v0.14.17.i686-linux-gnu.tar.gz"
+[[hyper]]
+arch = "powerpc64le"
+git-tree-sha1 = "40ddcc75cb0e6be86184fe57676f65c4df422f43"
+libc = "glibc"
+os = "linux"
+
+    [[hyper.download]]
+    sha256 = "f6d9960cfe9424c4d942782aca2d77006cac280c65ddaef64fc296d5234e46bc"
+    url = "https://github.com/JuliaBinaryWrappers/hyper_jll.jl/releases/download/hyper-v0.14.17+0/hyper.v0.14.17.powerpc64le-linux-gnu.tar.gz"
+[[hyper]]
+arch = "x86_64"
+git-tree-sha1 = "4a9ea464e3acc841c961511b0cdb42a2db60b042"
+os = "macos"
+
+    [[hyper.download]]
+    sha256 = "75e5e4315c6cbe8b2f3eeacd547b45e32dceccdb458a6694a6c8c23691183d47"
+    url = "https://github.com/JuliaBinaryWrappers/hyper_jll.jl/releases/download/hyper-v0.14.17+0/hyper.v0.14.17.x86_64-apple-darwin.tar.gz"
+[[hyper]]
+arch = "x86_64"
+git-tree-sha1 = "e04999e788412b6e82e19a3e50733702dbb0f927"
+libc = "glibc"
+os = "linux"
+
+    [[hyper.download]]
+    sha256 = "492e1504a37eb7eef43eb60e336bb4a0181b5a1c9474c28096d5f6938c32b850"
+    url = "https://github.com/JuliaBinaryWrappers/hyper_jll.jl/releases/download/hyper-v0.14.17+0/hyper.v0.14.17.x86_64-linux-gnu.tar.gz"
+[[hyper]]
+arch = "x86_64"
+git-tree-sha1 = "17f4d11b83008693fe45d8ef7b989100e24761cd"
+os = "freebsd"
+
+    [[hyper.download]]
+    sha256 = "527dcd5deca631c6842676d2ea5db32e09fa44ed46d44f57aa6485b98fd270fb"
+    url = "https://github.com/JuliaBinaryWrappers/hyper_jll.jl/releases/download/hyper-v0.14.17+0/hyper.v0.14.17.x86_64-unknown-freebsd.tar.gz"
+[[hyper]]
+arch = "x86_64"
+git-tree-sha1 = "3bd1ce29f2394ccbac354f7f8f3c9832e6e5d848"
+os = "windows"
+
+    [[hyper.download]]
+    sha256 = "2d0d409e68ab658e3bb91d650c00910d596dd2a042db16589c7612ff7c603824"
+    url = "https://github.com/JuliaBinaryWrappers/hyper_jll.jl/releases/download/hyper-v0.14.17+0/hyper.v0.14.17.x86_64-w64-mingw32.tar.gz"
