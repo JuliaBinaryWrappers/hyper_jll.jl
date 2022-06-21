@@ -1,6 +1,6 @@
 name = "hyper_jll"
 uuid = "a61b6c3d-25e5-5e83-9f29-3d6b98db101c"
-version = "0.14.17+1"
+version = "0.14.19+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
